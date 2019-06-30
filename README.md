@@ -1,8 +1,3 @@
----
-
-
----
-
 <p><strong>C++ Programlama Dili ile Öğrenci Otomasyonu</strong></p>
 <p><strong>Bir okuldaki öğrencilerin bilgilerini ve notlarını tutan, bu kayıtlarda arama yapabilen ve kayıtlarla ilgili rapor oluşturan konsol uygulaması.</strong></p>
 <p><img src="https://cdn-images-1.medium.com/max/1500/1*U6d6AJQrKaE3uD-dZBnE1w.jpeg" alt=""></p>
@@ -23,4 +18,3 @@
 <p>admin</p>
 <p><strong>Referanslar</strong></p>
 <p><a href="http://www.indir.com/koker-ogrenci-otomasyonu">indir.com</a></p>
-
